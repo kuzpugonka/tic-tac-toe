@@ -57,10 +57,14 @@ ol, ul {
 }
 
 .game-status {
-  /* text-align: center; */
+ font-weight: bold;
 }
 
 .game-info ol {
   list-style-type: none; 
   padding: 0;
+}
+
+.game-info li {
+  margin-bottom: 8px;
 }
